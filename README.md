@@ -6,3 +6,4 @@ git checkout -b 'branch name'
 git push origin 'branch name'
 #checking if dev branch works'
 #made changes for jenkins_homework to work
+#more changes
